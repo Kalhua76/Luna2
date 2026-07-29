@@ -1,0 +1,4 @@
+{
+  "engine": "sqlite",
+  "path": "database/luna.db"
+}

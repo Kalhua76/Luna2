@@ -1,0 +1,4 @@
+{
+  "default":"openai",
+  "enabled":["openai","ollama"]
+}
