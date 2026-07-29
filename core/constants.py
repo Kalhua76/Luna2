@@ -1,0 +1,6 @@
+APP_NAME="Luna"
+VERSION="0.1.0-alpha.1"
+AUTHOR="Thomas"
+CONFIG_PATH="config/default.json"
+LOG_PATH="logs/luna.log"
+DATABASE_PATH="database/luna.db"
