@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "luna-runtime"
+version = "0.2.0.dev1"
+description = "Luna Runtime - Personal AI Assistant"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+authors = [
+    { name = "Thomas D." }
+]
+
+dependencies = []
+
+[tool.pytest.ini_options]
+pythonpath = [
+    "src"
+]
